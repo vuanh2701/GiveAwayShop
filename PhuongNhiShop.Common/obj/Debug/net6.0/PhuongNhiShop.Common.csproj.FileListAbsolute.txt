@@ -1,0 +1,14 @@
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\bin\Debug\net6.0\PhuongNhiShop.Common.deps.json
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\bin\Debug\net6.0\PhuongNhiShop.Common.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\bin\Debug\net6.0\PhuongNhiShop.Common.pdb
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.csproj.AssemblyReference.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.AssemblyInfoInputs.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.AssemblyInfo.cs
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.csproj.CoreCompileInputs.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\refint\PhuongNhiShop.Common.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.pdb
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\ref\PhuongNhiShop.Common.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\bin\Debug\net6.0\PhuongNhiShop.Common.runtimeconfig.json
+E:\C#\PhuongNhiShop\PhuongNhiShop.Common\obj\Debug\net6.0\PhuongNhiShop.Common.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\bin\Debug\net6.0\PhuongNhiShop.Model.deps.json
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\bin\Debug\net6.0\PhuongNhiShop.Model.runtimeconfig.json
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\bin\Debug\net6.0\PhuongNhiShop.Model.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\bin\Debug\net6.0\PhuongNhiShop.Model.pdb
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\bin\Debug\net6.0\PhuongNhiShop.Common.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\bin\Debug\net6.0\PhuongNhiShop.Common.pdb
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.csproj.AssemblyReference.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.AssemblyInfoInputs.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.AssemblyInfo.cs
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.csproj.CoreCompileInputs.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.csproj.CopyComplete
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\refint\PhuongNhiShop.Model.dll
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.pdb
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\PhuongNhiShop.Model.genruntimeconfig.cache
+E:\C#\PhuongNhiShop\PhuongNhiShop.Model\obj\Debug\net6.0\ref\PhuongNhiShop.Model.dll
