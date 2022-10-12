@@ -1084,9 +1084,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj",
-      "projectName": "PhuongNhiShop.Common",
-      "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj",
+      "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\ReuseShop.Common.csproj",
+      "projectName": "ReuseShop.Common",
+      "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\ReuseShop.Common.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\obj\\",
       "projectStyle": "PackageReference",

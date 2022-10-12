@@ -1,4 +1,4 @@
-namespace PhuongNhiShop.Web
+namespace ReuseShop.Web
 {
     public class WeatherForecast
     {

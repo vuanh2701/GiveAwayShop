@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("Account")]
     public class Account
@@ -19,6 +19,7 @@ namespace PhuongNhiShop.Model.Models
         public string Password { get; set; }
         public int StaffID { get; set; }
 
+        [ForeignKey("StaffID")]
         public virtual Staff Staff { get; set; }
     }
 }

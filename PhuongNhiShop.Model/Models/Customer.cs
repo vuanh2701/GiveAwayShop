@@ -1,14 +1,14 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("Customers")]
     public class Customer
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ID { get; set; }
+        public int Id { get; set; }
         [Required]
         [MaxLength(256)]
         public string Name { get; set; }

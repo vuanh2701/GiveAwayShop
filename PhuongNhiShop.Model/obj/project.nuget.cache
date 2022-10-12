@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N1Bt39xe1Qoa027GEfpecDUSy2eNp4d9Im6K41XkpJLHmXAT2F7ecedeR5tUIq+2Fq83PcrGoCoNu1bA4Jdvyg==",
+  "dgSpecHash": "cSS2t7XJYMdZTM9lGlIl/4qAW6tOe/34hqRknamjvtbLtpQT60L/6RkM2XvT/MSge9atG56S8OgQ9Cl8UPGoLg==",
   "success": true,
-  "projectFilePath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj",
+  "projectFilePath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\ReuseShop.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

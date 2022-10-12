@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("Schedules")]
     public class Schedule
@@ -9,8 +9,8 @@ namespace PhuongNhiShop.Model.Models
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-        [Required]
-        public int CustomerID { get; set; }
+        
+        public int? CustomerID { get; set; }
         [Required]
         public int AppointmentID { get; set; }
         [Required]

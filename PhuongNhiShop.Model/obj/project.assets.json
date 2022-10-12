@@ -579,17 +579,17 @@
           }
         }
       },
-      "PhuongNhiShop.Common/1.0.0": {
+      "ReuseShop.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "EntityFramework": "6.4.4"
         },
         "compile": {
-          "bin/placeholder/PhuongNhiShop.Common.dll": {}
+          "bin/placeholder/ReuseShop.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PhuongNhiShop.Common.dll": {}
+          "bin/placeholder/ReuseShop.Common.dll": {}
         }
       }
     }
@@ -1653,17 +1653,17 @@
         "version.txt"
       ]
     },
-    "PhuongNhiShop.Common/1.0.0": {
+    "ReuseShop.Common/1.0.0": {
       "type": "project",
-      "path": "../PhuongNhiShop.Common/PhuongNhiShop.Common.csproj",
-      "msbuildProject": "../PhuongNhiShop.Common/PhuongNhiShop.Common.csproj"
+      "path": "../PhuongNhiShop.Common/ReuseShop.Common.csproj",
+      "msbuildProject": "../PhuongNhiShop.Common/ReuseShop.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "EntityFramework >= 6.4.4",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
-      "PhuongNhiShop.Common >= 1.0.0"
+      "ReuseShop.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1672,9 +1672,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj",
-      "projectName": "PhuongNhiShop.Model",
-      "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj",
+      "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\ReuseShop.Model.csproj",
+      "projectName": "ReuseShop.Model",
+      "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\ReuseShop.Model.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\obj\\",
       "projectStyle": "PackageReference",
@@ -1693,8 +1693,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-              "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+            "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\ReuseShop.Common.csproj": {
+              "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\ReuseShop.Common.csproj"
             }
           }
         }

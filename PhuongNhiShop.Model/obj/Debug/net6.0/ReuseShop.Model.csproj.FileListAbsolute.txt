@@ -1,0 +1,17 @@
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\bin\Debug\net6.0\ReuseShop.Model.deps.json
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\bin\Debug\net6.0\ReuseShop.Model.runtimeconfig.json
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\bin\Debug\net6.0\ReuseShop.Model.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\bin\Debug\net6.0\ReuseShop.Model.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\bin\Debug\net6.0\ReuseShop.Common.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\bin\Debug\net6.0\ReuseShop.Common.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.csproj.AssemblyReference.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.AssemblyInfoInputs.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.AssemblyInfo.cs
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.csproj.CoreCompileInputs.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.csproj.CopyComplete
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\refint\ReuseShop.Model.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ReuseShop.Model.genruntimeconfig.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Model\obj\Debug\net6.0\ref\ReuseShop.Model.dll

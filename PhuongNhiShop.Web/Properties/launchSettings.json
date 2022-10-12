@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "PhuongNhiShop.Web": {
+    "ReuseShop.Web": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

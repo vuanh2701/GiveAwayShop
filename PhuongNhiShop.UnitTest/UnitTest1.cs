@@ -1,4 +1,4 @@
-namespace PhuongNhiShop.UnitTest
+namespace ReuseShop.UnitTest
 {
     public class Tests
     {

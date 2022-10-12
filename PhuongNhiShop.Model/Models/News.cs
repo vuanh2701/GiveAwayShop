@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("News")]
     public class News
@@ -17,6 +17,11 @@ namespace PhuongNhiShop.Model.Models
         [Required]
         [MaxLength(256)]
         public string Name { get; set; }
+        [Column(TypeName = "varchar")]
+        [Required]
+        [MaxLength(256)]
+        public string Alias { get; set; }
+
         [MaxLength(256)]
         public string Description { get; set; }
         [Required]
@@ -28,10 +33,17 @@ namespace PhuongNhiShop.Model.Models
 
         public int CategoryNewID { get; set; }
 
+        public int? ViewCount { get; set; }
+        public bool? HomeFlag { get; set; }
+        public bool? HotFlag { get; set; }
+
+
+
         public string Content { get; set; }
 
         [ForeignKey("CategoryNewID")]
-        public virtual CategoryNews CategoryNews { get; set; }
+        public virtual NewsCategory CategoryNews { get; set; }
 
+        public virtual IEnumerable<NewsTag> NewsTags { get; set; }
     }
 }

@@ -579,17 +579,32 @@
           }
         }
       },
-      "PhuongNhiShop.Common/1.0.0": {
+      "ReuseShop.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "EntityFramework": "6.4.4"
         },
         "compile": {
-          "bin/placeholder/PhuongNhiShop.Common.dll": {}
+          "bin/placeholder/ReuseShop.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/PhuongNhiShop.Common.dll": {}
+          "bin/placeholder/ReuseShop.Common.dll": {}
+        }
+      },
+      "ReuseShop.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EntityFramework": "6.4.4",
+          "Microsoft.EntityFrameworkCore": "6.0.8",
+          "ReuseShop.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReuseShop.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReuseShop.Model.dll": {}
         }
       }
     }
@@ -1653,16 +1668,21 @@
         "version.txt"
       ]
     },
-    "PhuongNhiShop.Common/1.0.0": {
+    "ReuseShop.Common/1.0.0": {
       "type": "project",
-      "path": "../PhuongNhiShop.Common/PhuongNhiShop.Common.csproj",
-      "msbuildProject": "../PhuongNhiShop.Common/PhuongNhiShop.Common.csproj"
+      "path": "../PhuongNhiShop.Common/ReuseShop.Common.csproj",
+      "msbuildProject": "../PhuongNhiShop.Common/ReuseShop.Common.csproj"
+    },
+    "ReuseShop.Model/1.0.0": {
+      "type": "project",
+      "path": "../PhuongNhiShop.Model/ReuseShop.Model.csproj",
+      "msbuildProject": "../PhuongNhiShop.Model/ReuseShop.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.EntityFrameworkCore >= 6.0.8",
-      "PhuongNhiShop.Common >= 1.0.0"
+      "ReuseShop.Common >= 1.0.0",
+      "ReuseShop.Model >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1671,9 +1691,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj",
-      "projectName": "PhuongNhiShop.Data",
-      "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj",
+      "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\ReuseShop.Data.csproj",
+      "projectName": "ReuseShop.Data",
+      "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\ReuseShop.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -1692,8 +1712,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-              "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+            "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\ReuseShop.Common.csproj": {
+              "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\ReuseShop.Common.csproj"
+            },
+            "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\ReuseShop.Model.csproj": {
+              "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\ReuseShop.Model.csproj"
             }
           }
         }
@@ -1707,12 +1730,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.8, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

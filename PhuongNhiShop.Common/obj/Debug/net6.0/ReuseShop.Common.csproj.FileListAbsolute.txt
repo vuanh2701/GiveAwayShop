@@ -1,0 +1,14 @@
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\bin\Debug\net6.0\ReuseShop.Common.deps.json
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\bin\Debug\net6.0\ReuseShop.Common.runtimeconfig.json
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\bin\Debug\net6.0\ReuseShop.Common.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\bin\Debug\net6.0\ReuseShop.Common.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.csproj.AssemblyReference.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.AssemblyInfoInputs.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.AssemblyInfo.cs
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.csproj.CoreCompileInputs.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\refint\ReuseShop.Common.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ReuseShop.Common.genruntimeconfig.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Common\obj\Debug\net6.0\ref\ReuseShop.Common.dll

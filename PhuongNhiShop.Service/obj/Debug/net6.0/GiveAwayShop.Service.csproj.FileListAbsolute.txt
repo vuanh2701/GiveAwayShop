@@ -1,0 +1,14 @@
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\bin\Debug\net6.0\GiveAwayShop.Service.deps.json
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\bin\Debug\net6.0\GiveAwayShop.Service.runtimeconfig.json
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\bin\Debug\net6.0\GiveAwayShop.Service.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\bin\Debug\net6.0\GiveAwayShop.Service.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.csproj.AssemblyReference.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.AssemblyInfoInputs.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.AssemblyInfo.cs
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.csproj.CoreCompileInputs.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\refint\GiveAwayShop.Service.dll
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.pdb
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\GiveAwayShop.Service.genruntimeconfig.cache
+E:\C#\GiveAwayShop\PhuongNhiShop.Service\obj\Debug\net6.0\ref\GiveAwayShop.Service.dll

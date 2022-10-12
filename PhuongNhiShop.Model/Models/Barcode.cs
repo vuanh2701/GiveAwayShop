@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("Barcodes")]
     public class Barcode

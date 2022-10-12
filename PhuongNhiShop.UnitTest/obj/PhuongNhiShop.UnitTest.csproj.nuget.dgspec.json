@@ -4,12 +4,12 @@
     "E:\\C#\\GiveAwayShop\\PhuongNhiShop.UnitTest\\PhuongNhiShop.UnitTest.csproj": {}
   },
   "projects": {
-    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
+    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj",
-        "projectName": "PhuongNhiShop.Common",
-        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj",
+        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj",
+        "projectName": "GiveAwayShop.Common",
+        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\obj\\",
         "projectStyle": "PackageReference",
@@ -65,12 +65,12 @@
         }
       }
     },
-    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj": {
+    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj",
-        "projectName": "PhuongNhiShop.Data",
-        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj",
+        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj",
+        "projectName": "GiveAwayShop.Data",
+        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -89,8 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj"
+              },
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj"
               }
             }
           }
@@ -104,12 +107,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.8, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -130,12 +127,12 @@
         }
       }
     },
-    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj": {
+    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj",
-        "projectName": "PhuongNhiShop.Model",
-        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj",
+        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj",
+        "projectName": "GiveAwayShop.Model",
+        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\obj\\",
         "projectStyle": "PackageReference",
@@ -154,8 +151,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj"
               }
             }
           }
@@ -199,12 +196,12 @@
         }
       }
     },
-    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj": {
+    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj",
-        "projectName": "PhuongNhiShop.Service",
-        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj",
+        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj",
+        "projectName": "GiveAwayShop.Service",
+        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\obj\\",
         "projectStyle": "PackageReference",
@@ -223,14 +220,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj"
               }
             }
           }
@@ -288,17 +285,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj"
               },
               "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Web\\PhuongNhiShop.Web.csproj": {
                 "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Web\\PhuongNhiShop.Web.csproj"
@@ -381,17 +378,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\PhuongNhiShop.Data.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Data\\GiveAwayShop.Data.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\GiveAwayShop.Model.csproj"
               },
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\PhuongNhiShop.Service.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Service\\GiveAwayShop.Service.csproj"
               }
             }
           }

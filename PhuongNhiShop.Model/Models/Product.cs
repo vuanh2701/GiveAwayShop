@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Linq;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("Products")]
     public class Product
@@ -22,7 +22,8 @@ namespace PhuongNhiShop.Model.Models
         [Required]
         [MaxLength(50)]
         public string CreateBy { get; set; }
-        public XElement Image { get; set; }
+        [MaxLength(256)]
+        public string Image { get; set; }
         public decimal? PriceInput { get; set; }
         public decimal PriceOutput { get; set; }
         [MaxLength(50)]
@@ -34,8 +35,13 @@ namespace PhuongNhiShop.Model.Models
         [MaxLength(256)]
         public string MetaDescription { get; set; }
 
+        public int? ViewCount { get; set; }
+        public bool? HomeFlag { get; set; }
+        public bool? HotFlag { get; set; }
+
         [ForeignKey("CategoryID")]
-        public virtual Category Category { get; set; }
+        public virtual ProductCategory ProductCategory { get; set; }
+        public virtual IEnumerable<ProductTag> ProductTags { get; set; }
 
     }
 }

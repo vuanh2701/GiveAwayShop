@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PhuongNhiShop.Model.Models
+namespace ReuseShop.Model.Models
 {
     [Table("VisitorStatistics")]
     public class VisitorStatistic
@@ -14,6 +14,7 @@ namespace PhuongNhiShop.Model.Models
         [Key]
         public Guid ID { get; set; }
 
+        [Required]
         public DateTime VisitedDate { get; set; }
 
         [MaxLength(50)]

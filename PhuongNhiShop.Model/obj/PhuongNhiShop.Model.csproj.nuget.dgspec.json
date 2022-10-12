@@ -4,12 +4,12 @@
     "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Model\\PhuongNhiShop.Model.csproj": {}
   },
   "projects": {
-    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
+    "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj",
-        "projectName": "PhuongNhiShop.Common",
-        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj",
+        "projectUniqueName": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj",
+        "projectName": "GiveAwayShop.Common",
+        "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\obj\\",
         "projectStyle": "PackageReference",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj": {
-                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\PhuongNhiShop.Common.csproj"
+              "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj": {
+                "projectPath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.Common\\GiveAwayShop.Common.csproj"
               }
             }
           }

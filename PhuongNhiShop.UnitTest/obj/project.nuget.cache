@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LJIo5qvG98uYeXinLI2dD+IAraO+DY0CzB3XV3S7zyYIrU/Gb/KPBw82LOJ4VR+8jcJtZh+/jHz/dvJRTIU7hw==",
+  "dgSpecHash": "MpWfhX4gMH09SY3q2FJ6BfeJ/vK78LWWxRRFuPj4XddYNkn2xcY2kIkq5w7h3hi5csaFxxub7rqjL3dWGullWg==",
   "success": true,
-  "projectFilePath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.UnitTest\\PhuongNhiShop.UnitTest.csproj",
+  "projectFilePath": "E:\\C#\\GiveAwayShop\\PhuongNhiShop.UnitTest\\ReuseShop.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
