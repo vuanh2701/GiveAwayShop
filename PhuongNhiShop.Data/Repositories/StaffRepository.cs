@@ -3,7 +3,7 @@ using ReuseShop.Model.Models;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface IStaffRepository
+    public interface IStaffRepository : IRepository<Staff>
     {
 
     }

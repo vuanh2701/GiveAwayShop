@@ -3,7 +3,7 @@ using ReuseShop.Model.Models;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface ISupportOnlineRepository
+    public interface ISupportOnlineRepository : IRepository<SupportOnline>
     {
 
     }

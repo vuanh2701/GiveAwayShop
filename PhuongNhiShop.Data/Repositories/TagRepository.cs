@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface ITagRepository
+    public interface ITagRepository : IRepository<TagRepository>
     {
 
     }
-    public class TagRepository : RepositoryBase<Tag>, ITagRepository
+    public class TagRepository : RepositoryBase<TagRepository>, ITagRepository
     {
         public TagRepository(IDbFactory dbFactory) : base(dbFactory)
         {

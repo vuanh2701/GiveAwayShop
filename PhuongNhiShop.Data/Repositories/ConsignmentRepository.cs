@@ -3,7 +3,7 @@ using ReuseShop.Model.Models;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface IConsignmentRepository
+    public interface IConsignmentRepository : IRepository<Consignment>
     {
 
     }

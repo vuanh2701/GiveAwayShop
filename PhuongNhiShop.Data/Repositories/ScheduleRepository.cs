@@ -3,7 +3,7 @@ using ReuseShop.Model.Models;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface IScheduleRepository
+    public interface IScheduleRepository : IRepository<Schedule>
     {
 
     }

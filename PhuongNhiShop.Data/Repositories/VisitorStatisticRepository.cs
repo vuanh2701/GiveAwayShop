@@ -3,9 +3,9 @@ using ReuseShop.Model.Models;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface IVisitorStatisticRepository
+    public interface IVisitorStatisticRepository : IRepository<VisitorStatistic>
     {
-
+        
     }
     public class VisitorStatisticRepository : RepositoryBase<VisitorStatistic>, IVisitorStatisticRepository
     {

@@ -3,7 +3,7 @@ using ReuseShop.Model.Models;
 
 namespace ReuseShop.Data.Repositories
 {
-    public interface IBarcodeRepository
+    public interface IBarcodeRepository : IRepository<Barcode>
     {
 
     }

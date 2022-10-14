@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ReuseShop.Model.Models
 {
     [Table("News")]
-    public class News
+    public class News 
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -30,14 +25,12 @@ namespace ReuseShop.Model.Models
         [Required]
         public DateTime CreateDate { get; set; }
         public int StaffID { get; set; }
-
+        public bool Status { get; set; }
         public int CategoryNewID { get; set; }
 
         public int? ViewCount { get; set; }
         public bool? HomeFlag { get; set; }
         public bool? HotFlag { get; set; }
-
-
 
         public string Content { get; set; }
 
